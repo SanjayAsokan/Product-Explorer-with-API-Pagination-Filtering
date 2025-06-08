@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Explorer</title>
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+    <h2>Product Explorer</h2>
+
+    <div class="container">
+        <select id="sort">
+            <option value="">Sort By</option>
+            <option value="low">Prize: Low to High</option>
+            <option value="high">Prize: High to Low</option>
+            <option value="az">Title A-Z</option>
+        </select>
+
+        <select id="filter">
+            <option value="">All Categories</option>
+        </select>
+    </div>
+    <div id="product-container" class="grid"></div>
+    <div class="pagination">
+        <button id="prev">Previous</button>
+        <button id="page-num">Page 1</button>
+        <button id="next">Next</button>
+    </div>
+
+    <script src="product.js"></script>
+</body>
+</html>
