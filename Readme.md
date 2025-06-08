@@ -73,9 +73,7 @@ You can use any of the following options:
    https://verdant-clafoutis-1362c5.netlify.app/
 
 2. View Source Code on GitHub  
-   
-
-(Replace the above links with your actual deployed site and GitHub repository)
+https://github.com/SanjayAsokan/Product-Explorer-with-API-Pagination-Filtering
 
 ## Technologies Used
 
