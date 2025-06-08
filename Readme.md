@@ -92,12 +92,6 @@ https://github.com/SanjayAsokan/Product-Explorer-with-API-Pagination-Filtering
 
 - https://fakestoreapi.com/products
 
-
-2. View Source Code on GitHub  
-   https://github.com/your-username/product-explorer
-
-(Replace the above links with your actual deployed site and GitHub repository)
-
 ## Technologies Used
 
 - HTML
