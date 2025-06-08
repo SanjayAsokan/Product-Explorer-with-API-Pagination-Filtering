@@ -105,6 +105,4 @@ https://github.com/SanjayAsokan/Product-Explorer-with-API-Pagination-Filtering
 - product.css
 - product.js
 
-## API Reference
 
-- https://fakestoreapi.com/products
